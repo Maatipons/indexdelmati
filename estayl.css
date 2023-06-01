@@ -39,7 +39,9 @@
     display: flex;
     align-items: center;
   }
-  
+  .greeting {
+text-align: center;
+  }
   
   .button-menu-toggle {
     display: none;
